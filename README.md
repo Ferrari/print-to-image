@@ -20,3 +20,7 @@ print-to-image [-t IMAGE TYPE] [-d TARGET DIRECTORY] [-r RESOLUTION RATE]
 * -r: It will multiple of source resolution.
 
 Just run it before you print and setup printer follow [ipp-printer](https://github.com/watson/ipp-printer)
+
+## How it works
+
+![print-to-image](https://raw.githubusercontent.com/Ferrari/print-to-image/master/print-to-image.gif)
