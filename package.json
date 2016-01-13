@@ -1,0 +1,21 @@
+{
+  "name": "print-to-image",
+  "version": "1.0.0",
+  "description": "A network printer could convert screen to image",
+  "bin": {
+    "print-to-image": "./index.js"
+  },
+  "keywords": [
+    "printer",
+    "image"
+  ],
+  "author": "Ferrari Lee <shiyung@gmail.com>",
+  "dependencies": {
+    "gm": "^1.21.1",
+    "ipp-printer": "^0.10.7",
+    "minimist": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
